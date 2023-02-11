@@ -1,7 +1,6 @@
 const express = require('express');
 const path = require('path');
 const apiRoutes = require('./routes/apiRoutes.js')
-// const feedbackRouter = require('./routes/feedbackRouter.js')
 
 const PORT = 3001;
 
@@ -15,8 +14,6 @@ app.use(express.static('public'));
 
 // add router
 app.use('/api', apiRoutes)
-
-// app.use('/', feedbackRouter)
 
 
 // renders index.html file
