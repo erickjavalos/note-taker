@@ -18,7 +18,7 @@ and view it on the left dashboard. In addition to this, a user is also able to d
 
 ## Screenshot
 
-
+<img width="1433" alt="note-taker-demo" src="https://user-images.githubusercontent.com/23002875/227061456-fff91b0d-2652-4158-9b1d-a71515d290bb.png">
 
 ## Link to Deployed Site
 
